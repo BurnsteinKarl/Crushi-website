@@ -9,7 +9,7 @@ export default function Footer() {
           Swiss made 🇨🇭
         </div>
         <div className="text-gray-500 text-sm">
-          © {new Date().getFullYear()} Crushi. All rights reserved.
+          © 2026 Crushi. All rights reserved.
         </div>
       </div>
     </footer>
